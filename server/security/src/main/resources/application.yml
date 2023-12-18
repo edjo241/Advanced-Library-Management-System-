@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://athul_biju:hesoyam@cluster0.g3lpkvc.mongodb.net/LibraryManagement
